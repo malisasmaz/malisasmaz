@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake svg](https://github.com/malisasmaz/malisasmaz/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **malisasmaz/malisasmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
